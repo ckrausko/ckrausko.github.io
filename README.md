@@ -69,7 +69,7 @@ This privacy policy may be updated in the future. Any changes will be reflected 
 If you have any questions about this Privacy Policy, you can contact us at:
 </p>
 <p>
-<strong>[your-email@example.com]</strong>
+<strong>krauskopfapps@gmail.com</strong>
 </p>
 
 </body>
